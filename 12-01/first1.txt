@@ -1,0 +1,11 @@
+NumPy : (Numerical Python) 
+means when we want to perform any numerical computing or 
+operation numpy is flexible....
+Working with arrays and matrices 
+Linear algebra, Statistics and numeric operations
+
+Why Numpy is better than python list : 
+1. Speed : Numpy (Array)  
+2. Memory usage :  Python list (X)
+3. Vectorized Ops : Numpy Arrays 
+4. Machine learning  : numpy arrays

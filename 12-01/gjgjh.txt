@@ -1,0 +1,23 @@
+Machine learning 
+1. Supervised Learning 
+	1. Linear regression 
+		a. simple linear regression 
+			y = mx+b
+		b. multiple linear regression
+			y = mxix+mxi2.....mxin +b
+
+	Many Times Data ---- Overfitting
+
+Overfitting : expected output is not unstisfied...
+Overfitting is when a machine learning models learns 
+the training data too well, including noise and random
+fluctuations, but it perform poorly on new or unseen data 
+
+Underfitting : Model are not learning preporly and not train
+too well and their prediction also false
+
+
+When normal linear regression fails or it overfitting  we use (l2 Regularization)  
+Ridge regression it is technique which is use for prevent overfitting
+linear regressions model....
+

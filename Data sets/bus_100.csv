@@ -1,0 +1,21 @@
+Agency,Source,Destination,Bus Type,Distance (km),Fare Price (INR),Total Seats,Duration (hours)
+GoTour,Delhi,Agra,AC Seater,233,405,40,3.8
+BlueSky Bus,Mumbai,Pune,AC Sleeper,149,350,45,2.4
+MetroExpress,Bengaluru,Mysuru,Non-AC Seater,144,210,50,2.3
+CityLink,Chennai,Coimbatore,Volvo AC,508,1450,40,8.5
+FastTrack,Kolkata,Guwahati,Luxury AC,970,2200,35,16.4
+RedLine Travels,Hyderabad,Vizag,AC Seater,619,900,50,10.0
+GoTour,Mumbai,Pune,Volvo AC,149,500,35,2.6
+CityLink,Delhi,Agra,Non-AC Sleeper,233,360,45,4.0
+MetroExpress,Bengaluru,Mysuru,AC Sleeper,144,320,40,2.1
+RedLine Travels,Chennai,Coimbatore,AC Sleeper,508,1280,45,8.3
+BlueSky Bus,Kolkata,Guwahati,AC Seater,970,1380,50,15.9
+FastTrack,Hyderabad,Vizag,Luxury AC,619,1780,35,10.3
+CityLink,Mumbai,Pune,Non-AC Seater,149,250,50,2.5
+GoTour,Bengaluru,Mysuru,Volvo AC,144,460,30,2.0
+MetroExpress,Delhi,Agra,AC Sleeper,233,500,50,3.9
+BlueSky Bus,Chennai,Coimbatore,AC Seater,508,1050,45,8.1
+FastTrack,Kolkata,Guwahati,Non-AC Sleeper,970,1100,40,16.2
+RedLine Travels,Hyderabad,Vizag,Volvo AC,619,1350,35,9.8
+CityLink,Bengaluru,Mysuru,AC Seater,144,280,45,2.4
+GoTour,Chennai,Coimbatore,Luxury AC,508,1600,50,8.6

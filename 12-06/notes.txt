@@ -1,0 +1,6 @@
+Introduction of pandas
+pandas is an open-source Python library used for data manipulation , analysis, cleaning and working with tabular and time series data 
+
+pandas provide two types of main Structures 
+1. Series  1-D labeled array  (column in Excel)
+2. DataFrame 2-D labeled tables (Excel sheet / SQL table )
